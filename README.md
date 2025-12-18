@@ -23,8 +23,6 @@ The analyses are primarily conducted using **Python** and **Jupyter Notebooks**.
 - `filtering.ipynb` — Data cleaning and preprocessing
 - `journal_prompt.ipynb` — Prompt categorization and analysis
 
-(Add yours)
-
 
 ## Methods & Tools
 
